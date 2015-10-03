@@ -15,10 +15,10 @@ Basic and includes, where available, the installer for that version.
 | `0.5`    | &check; | &cross;    |
 | `0.6`    | &check; | &cross;    |
 | `0.7`    | &check; | &cross;    |
-| `0.8`    | &check; | &cross;    |
-| `0.9`    | &check; | &cross;    |
+| `0.8`    | &check; | &check;    |
+| `0.9`    | &check; | &check;    |
 | `0.91`   | &check; | &cross;    |
-| `0.95`   | &check; | &cross;    |
+| `0.95`   | &check; | &check;    |
 | `1.0`    | &check; | &check;    |
 | `1.1`    | &check; | &check;    |
 | `1.2`    | &check; | &check;    |
