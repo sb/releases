@@ -8,14 +8,14 @@ Basic and includes, where available, the installer for that version.
 
 | Version  | Notes   | Installer  |
 |:--------:|:-------:|:----------:|
-| `0.1`    | &cross; | &cross;    |
-| `0.2`    | &cross; | &cross;    |
+| `0.1`    | &check; | &cross;    |
+| `0.2`    | &check; | &cross;    |
 | `0.3`    | &check; | &check;    |
-| `0.4`    | &cross; | &cross;    |
+| `0.4`    | &check; | &cross;    |
 | `0.5`    | &check; | &check;    |
-| `0.6`    | &cross; | &cross;    |
+| `0.6`    | &check; | &cross;    |
 | `0.7`    | &check; | &check;    |
-| `0.8`    | &cross; | &cross;    |
+| `0.8`    | &check; | &cross;    |
 | `0.9`    | &check; | &check;    |
 | `0.91`   | &check; | &check;    |
 | `0.95`   | &check; | &check;    |
