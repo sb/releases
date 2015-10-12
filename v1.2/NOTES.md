@@ -33,7 +33,7 @@ found [here](./README.md).*
    `FrenchToEnglish`. We expanded our support to these languages:
    
     - `EnglishToGerman`, `GermanToEnglish`
-    - `EnglishToItalian`, ÌtalianToEnglish`
+    - `EnglishToItalian`, `ItalianToEnglish`
     - `EnglishToJapanese`, `JapaneseToEnglish`
     - `EnglishToKorean`, `KoreanToEnglish`
     - `EnglishToSimplifiedChinese`, `SimplifiedChineseToEnglish`
@@ -51,7 +51,6 @@ found [here](./README.md).*
   Czech, Dutch, French, German, Hebrew, Italian, Japanese, Portuguese (Brazil),
   Portuguese (Portugal), Russian, Spanish, and Turkish. We also had some logged
   errors that were fixed in this pass:  
-  
    - **Hebrew Errors (1.0-D03)** &ndash; Hebrew translation errors in the IDE are
      fixed.
    - **French Errors (1.0-D05, D06, D07)** &ndash; French translation errors in
@@ -82,7 +81,6 @@ found [here](./README.md).*
   attempt to divide by zero.
 - **IDE Documentation Updates** &ndash; We made several improvements to keep the
   documentation in the UI as accurate as possible:
-  
    - **`Math.Floor` and `Math.Ceiling` (1.0-D04)** &ndash; Clarified how these
      return the largest integer.
    - **`Control.Add*()` Methods (1.0-D08)** &ndash; Updated to mention how they
